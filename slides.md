@@ -14,9 +14,5 @@ src: ./pages/apresentacao.md
 ---
 
 ---
-src: ./pages/sumario.md
----
-
----
 src: ./pages/o-que-e-next.md
 ---
